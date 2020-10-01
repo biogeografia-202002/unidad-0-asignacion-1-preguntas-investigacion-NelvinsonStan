@@ -1,11 +1,10 @@
 # Mi/s pregunta/s de investigación es/son la/s siguiente/s:
 
-* ...
+* ¿Basados en la teoría de parches explique la dispersión de  Papilio demoleus por todo el caribe?.
 
-* ...
+* ¿tiene alguna relación la colonización del caribe por esta especie con la distancia de las islas entre si? 
 
-* ...
-
+*¿La teoría establece que el tamaño de un área tiene relación directa con el numero de especies que en ella habitan, si aumenta el numero de especies de dicho habitad el índice de extinción aumenta? .
 # Base común
 
 Formula tu/s pregunta/s de investigación. Ten en cuenta que tu/s pregunta/s debe...
