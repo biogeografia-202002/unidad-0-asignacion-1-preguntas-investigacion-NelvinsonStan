@@ -1,10 +1,21 @@
 # Mi/s pregunta/s de investigación es/son la/s siguiente/s:
 
-* ¿Basados en la teoría de parches explique la dispersión de  Papilio demoleus por todo el caribe?.
+Diversidad:
 
-* ¿tiene alguna relación la colonización del caribe por esta especie con la distancia de las islas entre si? 
+Según los análisis de estimación de riqueza, ¿está suficientemente representada mi familia? Consideremos como buena representación un 85%
+¿Existe asociación de la diversidad alpha con variables ambientales/atributos? ¿Con cuáles?
+¿Existe contribución local o por alguna especie a la diversidad beta?
 
-*¿La teoría establece que el tamaño de un área tiene relación directa con el numero de especies que en ella habitan, si aumenta el numero de especies de dicho habitad el índice de extinción aumenta? .
+Medición de asociación:
+
+¿Se detectan especies asociadas dentro de mi familia seleccionada?
+¿Existe asociación entre variables ambientales/atributos? ¿Cuáles variables?
+
+Agrupamiento (cluster analysis):
+
+Los cuadros (o quadrats) de 1 hectárea, ¿se organizan en grupos discontinuos según la composición de las especies de mi familia seleccionada?
+Si existe algún patrón, ¿es consistente con alguna variable ambiental/atributo?
+¿Hay especies indicadoras o con preferencia por determinadas condiciones ambientales/atributos?
 # Base común
 
 Formula tu/s pregunta/s de investigación. Ten en cuenta que tu/s pregunta/s debe...
